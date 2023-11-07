@@ -4,8 +4,10 @@
 - 💻 Passion for coding and a drive to improve. 
 - 🏆 Excited to expand my skillset and take on new challenges. 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GherghelasAlexandru)](https://git.io/streak-stats)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GherghelasAlexandru&hide_progress=true)
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=GherghelasAlexandru)](https://git.io/streak-stats)
+-->   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GherghelasAlexandru&hide_progress=true)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
