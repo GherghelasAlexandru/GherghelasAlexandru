@@ -3,8 +3,6 @@
 #### About me
 💻 Passion for coding and a drive to improve. 
 🏆 Excited to expand my skillset and take on new challenges. 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GherghelasAlexandru&hide_progress=false)
 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)  
