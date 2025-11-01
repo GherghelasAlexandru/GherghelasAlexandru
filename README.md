@@ -3,10 +3,7 @@
 #### About me
 💻 Passion for coding and a drive to improve. 
 🏆 Excited to expand my skillset and take on new challenges. 
-
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=GherghelasAlexandru)](https://git.io/streak-stats)
--->   
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GherghelasAlexandru&hide_progress=false)
 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
